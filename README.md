@@ -1,4 +1,5 @@
 # Pandora Paint
+<img width="512" height="512" alt="pandora-paint-1024" src="https://github.com/user-attachments/assets/406a2c5c-5425-4b89-a238-bbcc35cac025" />
 
 **A recolouring studio and item reference browser for *Avatar: Frontiers of Pandora* (Snowdrop engine) assets.**
 
