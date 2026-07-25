@@ -1,0 +1,8 @@
+# Pandora Paint - runtime dependencies (import name in brackets)
+PyQt6        # GUI toolkit          [PyQt6]
+moderngl     # OpenGL rendering     [moderngl]
+numpy        # array / mesh math    [numpy]
+Pillow       # non-.dds textures + texture export/resize   [PIL]
+
+# Build tool (not imported by the app, only needed to compile the .exe):
+#   pyinstaller
